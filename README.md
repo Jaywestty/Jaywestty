@@ -45,6 +45,10 @@ Beyond these public projects, I've spent recent months embedded in production AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
+
 **ML and data**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -71,7 +75,7 @@ Beyond these public projects, I've spent recent months embedded in production AI
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaywestty&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaywestty&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Jaywestty&hide_border=true" height="165" />
 </p>
 
 ## Let's talk
