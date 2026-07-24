@@ -75,7 +75,7 @@ Beyond these public projects, I've spent recent months embedded in production AI
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jaywestty/github-stats/generated/overview.svg" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Jaywestty&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Jaywestty&hide_border=true&v=2" height="165" />
 </p>
 
 ## Let's talk
