@@ -23,7 +23,7 @@ Currently, I work as an AI/ML Engineer refining prompt architecture and agent be
 
 **Crude Oil Price Scenario Forecaster** — Probabilistic macroeconomic simulation engine
 SARIMAX econometric forecasting combined with an LLM probability layer (LLaMA 3.3 via Groq) that reads plain-English market scenarios, assigns probability weights across competing outcomes, adjusts those weights using live macro signals (VIX, dollar index, inventories, Fed funds), and returns a weighted price distribution instead of a single point estimate.
-[Live demo](https://crude-forecaster.streamlit.app/) · [API docs](https://crudeoil-forecaster.onrender.com/docs) · [Repo](https://github.com/Jaywestty/CrudeOil-Forecaster)
+[Live demo](https://crudeoilforecaster.streamlit.app/) · [API docs](https://crudeoil-forecaster.onrender.com/docs) · [Repo](https://github.com/Jaywestty/CrudeOil-Forecaster)
 
 **Fraud Detection ML System** — Full MLOps reference implementation
 A fraud scoring system built as three connected services rather than a single script: MLflow-tracked training across multiple candidate models with automatic best-model selection, a FastAPI backend serving predictions and a live metrics dashboard, and an independently deployed Streamlit frontend. CI/CD via GitHub Actions auto-deploys to Hugging Face Spaces on every push.
