@@ -17,7 +17,7 @@
 
 I design and ship end-to-end AI systems, from LLM assistants and RAG pipelines to forecasting models, and take them all the way to production. My work sits between ML engineering and AI product building, with attention to the constraints that decide whether a system holds up: data quality, evaluation, latency, cost and reliability under real usage.
 
-Currently, I work as an AI/ML Engineer refining prompt architecture and agent behavior within a live multi-agent Planner-Executor-Validator system, alongside independent projects spanning LLM applications, applied ML and MLOps.
+Currently, I'm the engineer in charge of building and scaling the backend and AI infrastructure for [bukkafood.com](https://bukkafood.com), alongside independent projects spanning LLM applications, applied ML and MLOps.
 
 ## Featured projects
 
