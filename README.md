@@ -7,7 +7,7 @@
   <a href="mailto:juwonfadairo13@gmail.com">
     <img src="https://img.shields.io/badge/Email-juwonfadairo13%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/[https://www.linkedin.com/in/oluwajuwon-f-27b132248/]">
+  <a href="https://linkedin.com/in/[your-linkedin-handle]">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Based%20in-Lagos%2C%20Nigeria-008751?style=flat-square" />
@@ -17,7 +17,9 @@
 
 I design and ship end-to-end AI systems, from LLM assistants and RAG pipelines to forecasting models, and take them all the way to production. My work sits between ML engineering and AI product building, with attention to what decides whether a system holds up: data quality, honest evaluation, cost and reliability under real usage.
 
-Currently, I'm the engineer in charge of building and scaling the backend and AI infrastructure for [bukkafood.com](https://bukkafood.com), alongside independent projects in LLM applications, applied ML and MLOps.
+Currently, I'm the engineer in charge of building and scaling the backend and AI infrastructure for [bukkafood.com](https://bukkafood.com), a food delivery platform: payments and wallet, live order tracking, an installable PWA, a FastAPI backend and an admin console for vendors, riders and monitoring.
+
+Alongside that, I build independent projects in LLM applications, applied ML and MLOps.
 
 ## Featured projects
 
